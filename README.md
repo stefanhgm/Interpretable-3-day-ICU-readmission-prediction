@@ -1,6 +1,6 @@
-# Code for *Development of an Interpretable 3-day Intensive Care Unit Readmission Prediction Using Explainable Boosting Machines: a Retrospective Study with External Validation*
+# Code for *Development and Validation of an Interpretable 3-day Intensive Care Unit Readmission Prediction Model Using Explainable Boosting Machines*
 
-This repository contains the code used for all experiments described in *Development of an Interpretable 3-day Intensive Care Unit Readmission Prediction Using Explainable Boosting Machines: a Retrospective Study with External Validation*.
+This repository contains the code used for all experiments described in *Development and Validation of an Interpretable 3-day Intensive Care Unit Readmission Prediction Model Using Explainable Boosting Machines*.
 
 Please consider citing:
 
