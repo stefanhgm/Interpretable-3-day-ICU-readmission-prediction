@@ -4,7 +4,17 @@ This repository contains the code used for all experiments described in *Develop
 
 Please consider citing:
 
-> (follows)
+```
+@article{hegselmann2022development,
+  title={Development and validation of an interpretable 3 day intensive care unit readmission prediction model using explainable boosting machines},
+  author={Hegselmann, Stefan and Ertmer, Christian and Volkert, Thomas and Gottschalk, Antje and Dugas, Martin and Varghese, Julian},
+  journal={Frontiers in Medicine},
+  volume={9},
+  pages={960296},
+  year={2022},
+  publisher={Frontiers}
+}
+```
 
 ## Project structure
 
